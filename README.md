@@ -7,8 +7,7 @@
 
 
 <h4>My Design:</h4>
-<img width="1405" alt="justin s" src="https://user-images.githubusercontent.com/33379226/42818845-27f00094-898f-11e8-957b-f68f34fb44ee.png">
-
+<img width="1438" alt="static-comp-1 5" src="https://user-images.githubusercontent.com/33379226/45100045-ede4e300-b0e5-11e8-86be-1984175a075a.png">
 
 
 <h4>Author:</h4>
